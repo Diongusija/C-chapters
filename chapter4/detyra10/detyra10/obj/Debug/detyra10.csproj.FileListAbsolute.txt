@@ -1,0 +1,6 @@
+C:\Users\Suzana\Desktop\Detyrat\chapter4\detyra10\detyra10\bin\Debug\detyra10.exe.config
+C:\Users\Suzana\Desktop\Detyrat\chapter4\detyra10\detyra10\bin\Debug\detyra10.exe
+C:\Users\Suzana\Desktop\Detyrat\chapter4\detyra10\detyra10\bin\Debug\detyra10.pdb
+C:\Users\Suzana\Desktop\Detyrat\chapter4\detyra10\detyra10\obj\Debug\detyra10.csproj.CoreCompileInputs.cache
+C:\Users\Suzana\Desktop\Detyrat\chapter4\detyra10\detyra10\obj\Debug\detyra10.exe
+C:\Users\Suzana\Desktop\Detyrat\chapter4\detyra10\detyra10\obj\Debug\detyra10.pdb

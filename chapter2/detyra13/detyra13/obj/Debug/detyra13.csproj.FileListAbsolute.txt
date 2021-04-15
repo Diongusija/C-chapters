@@ -1,0 +1,6 @@
+C:\Users\Suzana\Desktop\Detyrat\chapter2\detyra13\detyra13\bin\Debug\detyra13.exe.config
+C:\Users\Suzana\Desktop\Detyrat\chapter2\detyra13\detyra13\bin\Debug\detyra13.exe
+C:\Users\Suzana\Desktop\Detyrat\chapter2\detyra13\detyra13\bin\Debug\detyra13.pdb
+C:\Users\Suzana\Desktop\Detyrat\chapter2\detyra13\detyra13\obj\Debug\detyra13.csproj.CoreCompileInputs.cache
+C:\Users\Suzana\Desktop\Detyrat\chapter2\detyra13\detyra13\obj\Debug\detyra13.exe
+C:\Users\Suzana\Desktop\Detyrat\chapter2\detyra13\detyra13\obj\Debug\detyra13.pdb

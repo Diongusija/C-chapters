@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dertyra16", "dertyra16\dertyra16.csproj", "{BB74F07B-EF8B-4B21-9D8F-A67E8B690C1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB74F07B-EF8B-4B21-9D8F-A67E8B690C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB74F07B-EF8B-4B21-9D8F-A67E8B690C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB74F07B-EF8B-4B21-9D8F-A67E8B690C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB74F07B-EF8B-4B21-9D8F-A67E8B690C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D464242-02DC-49DF-86B3-06AF205A68F5}
+	EndGlobalSection
+EndGlobal

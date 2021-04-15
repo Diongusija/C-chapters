@@ -1,0 +1,6 @@
+C:\Users\Suzana\Desktop\Detyrat\chapter6\dertyra16\dertyra16\bin\Debug\dertyra16.exe.config
+C:\Users\Suzana\Desktop\Detyrat\chapter6\dertyra16\dertyra16\bin\Debug\dertyra16.exe
+C:\Users\Suzana\Desktop\Detyrat\chapter6\dertyra16\dertyra16\bin\Debug\dertyra16.pdb
+C:\Users\Suzana\Desktop\Detyrat\chapter6\dertyra16\dertyra16\obj\Debug\dertyra16.csproj.CoreCompileInputs.cache
+C:\Users\Suzana\Desktop\Detyrat\chapter6\dertyra16\dertyra16\obj\Debug\dertyra16.exe
+C:\Users\Suzana\Desktop\Detyrat\chapter6\dertyra16\dertyra16\obj\Debug\dertyra16.pdb

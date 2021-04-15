@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "detyra13", "detyra13\detyra13.csproj", "{8789C5F1-58AA-4463-B999-B79142E5DBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8789C5F1-58AA-4463-B999-B79142E5DBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8789C5F1-58AA-4463-B999-B79142E5DBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8789C5F1-58AA-4463-B999-B79142E5DBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8789C5F1-58AA-4463-B999-B79142E5DBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91F1F50-3618-440C-A501-5843BEA4DD56}
+	EndGlobalSection
+EndGlobal
